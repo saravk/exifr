@@ -201,8 +201,7 @@ module EXIFR
         0xa40c => :subject_distance_range,
         0xa420 => :image_unique_id,
         0xa433 => :lens_make,
-        0xa434 => :lens_model,
-        0xfdea => :lens
+        0xa434 => :lens_model
       },
 
       :gps => {
